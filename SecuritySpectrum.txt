@@ -1,0 +1,5 @@
+Sensu.Cortex.Logos,Top_Classified
+Sensu.Cortex.Pathos,Top_Classified
+Sensu.Cortex.Ethos,Top_Classified
+Slack_Communication,Classified
+sensutec_com,unclassified

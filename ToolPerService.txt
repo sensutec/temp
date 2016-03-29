@@ -1,0 +1,8 @@
+Service,Tool
+Instant_Communication,Slack
+Formal_Communication,AWS.SES(WorkMail)
+ShareScreen_Communication,(join.me,gotomeeting.com,teamviewer.com,webex.com,google+)?
+Cortex.Mind_Repository,AWS.CodeCommit
+Cortex.Body_Repository,GitHub
+sensutec_com,GitHub
+crm,SalesForce
