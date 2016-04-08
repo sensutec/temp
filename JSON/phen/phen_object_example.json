@@ -1,0 +1,194 @@
+[
+  {
+    "phen": "HP",
+    "sentence_number": 825,
+    "phen_id": 3809,
+    "phen_type": "subject"
+  },
+  {
+    "phen": "wish",
+    "sentence_number": 825,
+    "phen_id": 3810,
+    "phen_type": "core"
+  },
+  {
+    "phen": "nothing but",
+    "sentence_number": 825,
+    "phen_id": 3811,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "the",
+    "sentence_number": 825,
+    "phen_id": 3812,
+    "phen_type": "core"
+  },
+  {
+    "phen": "best",
+    "sentence_number": 825,
+    "phen_id": 3813,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "i",
+    "sentence_number": 826,
+    "phen_id": 3814,
+    "phen_type": "core"
+  },
+  {
+    "phen": "think",
+    "sentence_number": 826,
+    "phen_id": 3815,
+    "phen_type": "core"
+  },
+  {
+    "phen": "HP",
+    "sentence_number": 826,
+    "phen_id": 3816,
+    "phen_type": "subject"
+  },
+  {
+    "phen": "is",
+    "sentence_number": 826,
+    "phen_id": 3817,
+    "phen_type": "core"
+  },
+  {
+    "phen": "an",
+    "sentence_number": 826,
+    "phen_id": 3818,
+    "phen_type": "core"
+  },
+  {
+    "phen": "icon",
+    "sentence_number": 826,
+    "phen_id": 3819,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "those",
+    "sentence_number": 827,
+    "phen_id": 3820,
+    "phen_type": "core"
+  },
+  {
+    "phen": "of",
+    "sentence_number": 827,
+    "phen_id": 3821,
+    "phen_type": "core"
+  },
+  {
+    "phen": "us",
+    "sentence_number": 827,
+    "phen_id": 3822,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "who",
+    "sentence_number": 827,
+    "phen_id": 3823,
+    "phen_type": "core"
+  },
+  {
+    "phen": "had",
+    "sentence_number": 827,
+    "phen_id": 3824,
+    "phen_type": "core"
+  },
+  {
+    "phen": "their",
+    "sentence_number": 827,
+    "phen_id": 3825,
+    "phen_type": "core"
+  },
+  {
+    "phen": "careers",
+    "sentence_number": 827,
+    "phen_id": 3826,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "in the Valley",
+    "sentence_number": 827,
+    "phen_id": 3827,
+    "phen_type": "subject"
+  },
+  {
+    "phen": "think",
+    "sentence_number": 827,
+    "phen_id": 3828,
+    "phen_type": "core"
+  },
+  {
+    "phen": "of",
+    "sentence_number": 827,
+    "phen_id": 3829,
+    "phen_type": "core"
+  },
+  {
+    "phen": "Dave Packard and Bill Hewlett",
+    "sentence_number": 827,
+    "phen_id": 3830,
+    "phen_type": "subject"
+  },
+  {
+    "phen": "as role models",
+    "sentence_number": 827,
+    "phen_id": 3831,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "We",
+    "sentence_number": 828,
+    "phen_id": 3832,
+    "phen_type": "subject"
+  },
+  {
+    "phen": "would love",
+    "sentence_number": 828,
+    "phen_id": 3833,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "to",
+    "sentence_number": 828,
+    "phen_id": 3834,
+    "phen_type": "core"
+  },
+  {
+    "phen": "be",
+    "sentence_number": 828,
+    "phen_id": 3835,
+    "phen_type": "core"
+  },
+  {
+    "phen": "half as",
+    "sentence_number": 828,
+    "phen_id": 3836,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "good",
+    "sentence_number": 828,
+    "phen_id": 3837,
+    "phen_type": "core"
+  },
+  {
+    "phen": "as",
+    "sentence_number": 828,
+    "phen_id": 3838,
+    "phen_type": "concept"
+  },
+  {
+    "phen": "they",
+    "sentence_number": 828,
+    "phen_id": 3839,
+    "phen_type": "core"
+  },
+  {
+    "phen": "were",
+    "sentence_number": 828,
+    "phen_id": 3840,
+    "phen_type": "core"
+  }
+]

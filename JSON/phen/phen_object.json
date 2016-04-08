@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "phen_object",
+  "type": "object",
+  "properties": {
+        "phen": {
+          "description": "Basic units of meaning",
+          "type": "string"
+        },
+        "phen_type": {
+          "description": "Either subject, concept, or relation",
+          "type": "string"
+        },
+        "phen_id": {
+          "description": "Gives context of sequential order",
+          "type": "integer"
+        },
+        "sentence_number": {
+          "description": "Gives context of which sentence unit the phen is in",
+          "type": "integer"
+        }
+
+  },
+    "required": ["phen", "phen_type", "phen_id", "sentence_number"]
+}
